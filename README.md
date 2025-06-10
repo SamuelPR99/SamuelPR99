@@ -1,6 +1,6 @@
 # 👋 Hola, soy Samuel
 
-![Banner](https://img.shields.io/badge/Desarrollador%20Web%20Full%20Stack)
+![Banner](https://img.shields.io/badge/Desarrollador_Web_Full_Stack-008000)
 
 ## 👨‍💻 Sobre mí
 
