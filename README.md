@@ -1,6 +1,6 @@
 # 👋 Hola, soy Samuel
 
-![Banner](https://img.shields.io/badge/Desarrollador%20Web%20Full%20Stack-Laravel%20%7C%20PHP%20%7C%20Java-blue)
+![Banner](https://img.shields.io/badge/Desarrollador%20Web%20Full%20Stack)
 
 ## 👨‍💻 Sobre mí
 
@@ -66,8 +66,4 @@ Herramienta desarrollada en Python para automatizar cálculos específicos.
 ¿Interesado en colaborar o tienes alguna pregunta? ¡No dudes en contactarme!
 
 - Email: [spenareyes@gmail.com](mailto:spenareyes@gmail.com)
-- LinkedIn: [tu-linkedin](www.linkedin.com/in/samuel-peña-reyes-986122240)
-
----
-
-⭐️ De [SamuelPR99](https://github.com/SamuelPR99)
+- LinkedIn: [linkedin](www.linkedin.com/in/samuel-peña-reyes-986122240)
